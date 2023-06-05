@@ -30,4 +30,5 @@ License
 This project is licensed under the MIT License.
 
 Acknowledgments
-if you want to ask question on discord join discord.gg.zhack and ask me.
+
+if you want to ask question on discord join discord.gg./zhack and ask me.
